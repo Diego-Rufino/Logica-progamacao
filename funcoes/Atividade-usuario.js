@@ -1,0 +1,1 @@
+function Login() {  let usuarioCorreto = "diego"  let senhaCorreta = "1234"  let usuario = prompt("Digite o nome de usuário:")  let senha = prompt("Digite a senha:")  if (usuarioDigitado === usuarioCorreto && senhaDigitada === senhaCorreta) {    console.log("Login bem-sucedido!")  } else {    console.log("Usuário ou senha incorretos.")  }}Login()
